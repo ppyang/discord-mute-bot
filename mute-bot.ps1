@@ -1,0 +1,1 @@
+C:\Users\Administrator\AppData\Local\Programs\Python\Python38\python.exe C:\Users\Administrator\PycharmProjects\mute-bot\mute-bot.py
